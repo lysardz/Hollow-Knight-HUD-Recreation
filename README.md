@@ -1,5 +1,7 @@
 # Hollow-Knight-HUD-Recreation
-![Final](https://github.com/lysardz/lysardz/Hollow-Knight-HUD-Recreation/Final.gif) 
+
+![Hollow Knight Hud]([https://github.com/lysardz/lysardz/Hollow-Knight-HUD-Recreation/Final.gif](https://github.com/lysardz/Hollow-Knight-HUD-Recreation/blob/main/Final.gif)) 
+
 ***Recreated the Hollow Knight UI using:***
 
 - **Shader Graph** for stylized effects.
