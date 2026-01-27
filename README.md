@@ -2,7 +2,8 @@
 </picture>
 <img src="https://github.com/lysardz/Hollow-Knight-HUD-Recreation/blob/main/Final.gif" alt="Alt text">
 </picture>
-***Recreated the Hollow Knight UI using:***
+
+## Recreated the Hollow Knight UI using:
 
 - **Shader Graph** for stylized effects.
 
